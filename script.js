@@ -11,7 +11,7 @@ const speciesData = [
         region: "Russian Far East, China",
         habitat: "Temperate forests",
         threats: ["poaching", "habitat loss", "prey scarcity"],
-        image: "https://images.unsplash.com/photo-1561731216-c3b4d4b9826b?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        image: "./images/amur-leopard.jpg",
         conservation: "Anti-poaching patrols, habitat corridors"
     },
     {
@@ -25,7 +25,7 @@ const speciesData = [
         region: "Virunga Mountains, Central Africa",
         habitat: "Montane forests",
         threats: ["habitat loss", "poaching", "disease"],
-        image: "https://images.unsplash.com/photo-1570481662006-a3a1374699e8?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        image: "./images/gorilla.webp",
         conservation: "Vigorous protection, veterinary care"
     },
     {
@@ -39,7 +39,7 @@ const speciesData = [
         region: "Sumatra, Indonesia",
         habitat: "Lowland forests",
         threats: ["habitat loss", "human conflict", "poaching"],
-        image: "https://images.unsplash.com/photo-1562077772-3bd90403f7f0?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        image: "./images/elephant.webp",
         conservation: "Protected areas, conflict mitigation"
     },
     {
@@ -67,7 +67,7 @@ const speciesData = [
         region: "Central Asian mountains",
         habitat: "Alpine regions",
         threats: ["poaching", "climate change", "prey decline"],
-        image: "https://images.unsplash.com/photo-1589656966895-2f33e7653819?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        image: "./images/snow-leopard.jpg",
         conservation: "Community-based conservation"
     },
     {
@@ -81,7 +81,7 @@ const speciesData = [
         region: "Eastern and Southern Africa",
         habitat: "Savanna, desert",
         threats: ["poaching", "habitat loss"],
-        image: "https://images.unsplash.com/photo-1526397750854-8350a21be521?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        image: "./images/black-rhino.jpg",
         conservation: "Anti-poaching, translocation"
     },
     {
@@ -95,7 +95,7 @@ const speciesData = [
         region: "Borneo, Sumatra",
         habitat: "Rainforests",
         threats: ["deforestation", "poaching", "fires"],
-        image: "https://images.unsplash.com/photo-1570481662006-a3a1374699e8?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        image: "./images/orangutan.jpg",
         conservation: "Rehabilitation, habitat protection"
     },
     {
@@ -109,7 +109,7 @@ const speciesData = [
         region: "Tropical oceans worldwide",
         habitat: "Coral reefs",
         threats: ["poaching", "bycatch", "habitat loss"],
-        image: "https://images.unsplash.com/photo-1544551763-46a013bb70d5?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+        image: "./hawksbill-turtle.webp",
         conservation: "Nesting beach protection"
     }
 ];
