@@ -109,7 +109,7 @@ const speciesData = [
         region: "Tropical oceans worldwide",
         habitat: "Coral reefs",
         threats: ["poaching", "bycatch", "habitat loss"],
-        image: "./hawksbill-turtle.webp",
+        image: "./images/hawksbill-turtle.webp",
         conservation: "Nesting beach protection"
     }
 ];
